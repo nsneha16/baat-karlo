@@ -32,4 +32,4 @@ channelSchema.pre("findOneAndUpdate", function (next) {
 
 const Channel = mongoose.model("Channels", channelSchema);
 
-export default Channel;
+export default channel;
