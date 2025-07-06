@@ -4,6 +4,7 @@ A real-time chat application built using React, Node.js, and Socket.io.
 
 ## GROUP INFORMATION
 
+
 1.SNEHA NAMDEO(2023BCSE033)
 2.TANISHKA SHARMA(2023BCSE049)
 3.NAKUL MAHAJAN(2023BCSE023)
